@@ -46,8 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-"C:\Users\Aravinth\Pictures\Screenshots\Screenshot 2024-11-19 180108.png"
 
+![Screenshot 2024-11-19 180108](https://github.com/user-attachments/assets/9dbcaa82-1ecf-4288-9e3c-9abc66bec828)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -64,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 114126.png"
+![Screenshot 2024-11-19 181134](https://github.com/user-attachments/assets/a9bc0854-954a-44e3-b950-e3310069bd6a)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +77,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 112707.png"
+![Screenshot 2024-11-19 181232](https://github.com/user-attachments/assets/03b605cc-e26d-4627-85af-d53448a49639)
+
 
 
  
@@ -90,19 +92,24 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 112513.png"
+![Screenshot 2024-11-19 181311](https://github.com/user-attachments/assets/3d5e5388-25d1-47e9-9b16-5375821536b6)
+
 
 For Transient Analysis Settings and Output
  
  
- ![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 112355.png"
+![Screenshot 2024-11-19 181402](https://github.com/user-attachments/assets/9366bba4-272a-4e2a-a100-9b62f573108f)
 
- ![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 112254.png"
+
+ ![Screenshot 2024-11-19 181415](https://github.com/user-attachments/assets/3d08d8eb-e569-4856-b85d-1fe62038dda9)
+
 
  For DC Analysis Settings and Output
-![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 113820.png"
+![Screenshot 2024-11-19 181938](https://github.com/user-attachments/assets/47bb1599-8e8a-4c30-bd39-abd19b0295ce)
 
-![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-05 113605.png"
+
+![Screenshot 2024-11-19 181430](https://github.com/user-attachments/assets/d0ac6b31-dc15-41fa-86ba-cea89c5a35b1)
+
 
 
  
